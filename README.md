@@ -6,6 +6,7 @@ This is a sentiment analysis tool using Hugging Face's Transformers. It analyzes
 Clone the repository:
 
 git clone https://github.com/rashi40/SentimentAnalysis.git
+
 cd SentimentAnalysis
 
 
