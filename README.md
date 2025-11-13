@@ -1,5 +1,5 @@
 # SentimentAnalysis
-This is a sentiment analysis tool using Hugging Face's Transformers. It analyzes text input and returns sentiment (POSITIVE/NEGATIVE) with confidence score.
+This is a sentiment analysis tool using Hugging Face's Transformers. It analyzes text input and returns sentiment (POSITIVE/NEGATIVE) with confidence score. The tool is powered by pre-trained transformer model DistilBERT, which is fine-tuned for sentiment classification.
 
 **Installation**
 
